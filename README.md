@@ -22,3 +22,5 @@ A .clang-format is included to foramt the files. Requries clang-format > 9.0
 ```bash
 make format
 ````
+# Credit
+Based on ThinkOS code by Allan Diowney provided here: https://github.com/AllenDowney/ThinkOS
