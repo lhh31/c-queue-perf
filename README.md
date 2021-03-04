@@ -1,4 +1,4 @@
-# Intrdouction
+# Introduction
 A set of benchmarks to compare the performance of various types of multithreading. The following types are currently tested
 * ZMQ inproc
 * Mutexes and conditional signalling
