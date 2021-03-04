@@ -1,0 +1,3 @@
+#define NUM_CHILDREN 2
+#define NUM_ITEMS    (1E7)
+#define QUEUE_LENGTH 8192
